@@ -1,0 +1,48 @@
+11/06/2020 17:37:38: 
+
+Tracing route to api-wlc-dal.watsonmedia.ibm.com [169.63.41.62]
+over a maximum of 30 hops:
+
+  1     2 ms     2 ms     2 ms  10.201.100.4 
+  2    <1 ms    <1 ms    <1 ms  10.201.249.1 
+  3    <1 ms    <1 ms    <1 ms  72-12-66-1.static.firstlight.net [72.12.66.1] 
+  4     2 ms     2 ms     2 ms  66-152-98-189.tvc-ip.com [66.152.98.189] 
+  5     4 ms     3 ms     3 ms  be32.ptmonh07cr1.ip.firstlight.net [66.152.98.97] 
+  6     7 ms     5 ms     6 ms  be12.mnchnhptcr1.ip.firstlight.net [66.152.98.102] 
+  7     6 ms     5 ms     5 ms  be11.wrjtvtgacr1.ip.firstlight.net [66.152.98.38] 
+  8     8 ms     8 ms     8 ms  be13.albnypscr1.ip.firstlight.net [66.152.98.13] 
+  9    11 ms    11 ms    11 ms  be21.nycmnyqobr1.ip.firstlight.net [66.152.98.10] 
+ 10    14 ms    18 ms    11 ms  te1-7.bbr01.tl01.nyc01.networklayer.com [198.32.160.27] 
+ 11     *        *       12 ms  ae5.cbs02.tl01.nyc01.networklayer.com [50.97.17.42] 
+ 12     *        *        *     Request timed out.
+ 13    53 ms     *       54 ms  ae2.cbs02.dr01.dal04.networklayer.com [169.45.18.4] 
+ 14    56 ms    56 ms    57 ms  23.12.2da9.ip4.static.sl-reverse.com [169.45.18.35] 
+ 15    53 ms    53 ms    53 ms  89.76.2fa9.ip4.static.sl-reverse.com [169.47.118.137] 
+ 16    53 ms    56 ms    55 ms  9d.76.2fa9.ip4.static.sl-reverse.com [169.47.118.157] 
+ 17    56 ms    56 ms    54 ms  3e.29.3fa9.ip4.static.sl-reverse.com [169.63.41.62] 
+
+Trace complete.
+11/06/2020 17:37:58: 
+
+Tracing route to api-wlc-wdc.watsonmedia.ibm.com [169.55.100.6]
+over a maximum of 30 hops:
+
+  1     4 ms     4 ms     2 ms  10.201.100.4 
+  2    <1 ms    <1 ms    <1 ms  10.201.249.1 
+  3     1 ms    <1 ms    <1 ms  72-12-66-1.static.firstlight.net [72.12.66.1] 
+  4     2 ms     1 ms     1 ms  66-152-98-189.tvc-ip.com [66.152.98.189] 
+  5     3 ms     3 ms     3 ms  be32.ptmonh07cr1.ip.firstlight.net [66.152.98.97] 
+  6     6 ms     5 ms     5 ms  be12.mnchnhptcr1.ip.firstlight.net [66.152.98.102] 
+  7     5 ms     5 ms     5 ms  be11.wrjtvtgacr1.ip.firstlight.net [66.152.98.38] 
+  8     8 ms     8 ms     8 ms  be13.albnypscr1.ip.firstlight.net [66.152.98.13] 
+  9    11 ms    11 ms    11 ms  be21.nycmnyqobr1.ip.firstlight.net [66.152.98.10] 
+ 10    11 ms    11 ms    15 ms  te1-7.bbr01.tl01.nyc01.networklayer.com [198.32.160.27] 
+ 11    12 ms    12 ms    13 ms  ae5.cbs01.tl01.nyc01.networklayer.com [50.97.17.38] 
+ 12    21 ms    23 ms    19 ms  ae2.cbs01.cs01.wdc05.networklayer.com [169.45.18.188] 
+ 13    17 ms    17 ms    17 ms  ae2.dar03.wdc04.networklayer.com [169.45.18.235] 
+ 14    17 ms    18 ms    17 ms  83.76.3fa9.ip4.static.sl-reverse.com [169.63.118.131] 
+ 15    17 ms    17 ms    17 ms  po1002.fcr01b.wdc04.networklayer.com [169.55.118.179] 
+ 16    17 ms    17 ms    17 ms  6.64.37a9.ip4.static.sl-reverse.com [169.55.100.6] 
+
+Trace complete.
+-------------------------------------

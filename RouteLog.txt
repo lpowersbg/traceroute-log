@@ -1,0 +1,54 @@
+11/02/2020 17:35:10: 
+
+
+ComputerName           : 8.8.8.8
+RemoteAddress          : 8.8.8.8
+NameResolutionResults  : 8.8.8.8
+InterfaceAlias         : Ethernet
+SourceAddress          : 10.201.100.144
+NetRoute (NextHop)     : 10.201.100.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 17 ms
+TraceRoute             : 10.201.100.4
+                         10.201.249.1
+                         72.12.66.1
+                         66.152.98.189
+                         66.152.98.97
+                         66.152.98.102
+                         66.152.98.38
+                         66.152.98.13
+                         66.152.98.10
+                         198.32.161.20
+                         108.170.248.33
+                         142.250.46.195
+                         8.8.8.8
+
+
+
+11/02/2020 17:35:12: 
+
+
+ComputerName           : 8.8.8.8
+RemoteAddress          : 8.8.8.8
+NameResolutionResults  : 8.8.8.8
+InterfaceAlias         : Ethernet
+SourceAddress          : 10.201.100.144
+NetRoute (NextHop)     : 10.201.100.1
+PingSucceeded          : True
+PingReplyDetails (RTT) : 12 ms
+TraceRoute             : 10.201.100.4
+                         10.201.249.1
+                         72.12.66.1
+                         66.152.98.189
+                         66.152.98.97
+                         66.152.98.102
+                         66.152.98.38
+                         66.152.98.13
+                         66.152.98.10
+                         198.32.161.20
+                         108.170.248.33
+                         142.250.46.195
+                         8.8.8.8
+
+
+
